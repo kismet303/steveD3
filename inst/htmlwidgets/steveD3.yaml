@@ -1,0 +1,28 @@
+dependencies:
+- name: d3
+  version: 3.5.16
+  src: htmlwidgets
+  script: ./lib/d3.min.js
+- name: crossfilter
+  version: 1.2.1
+  src: htmlwidgets
+  script: ./lib/crossfilter.min.js
+- name: dc
+  version: 3.0
+  src: htmlwidgets
+  script: ./lib/dc.min.js
+- name: jquery
+  version: 1.2.1
+  src: htmlwidgets
+  script: ./lib/jquery-1.11.1.min.js
+- name: bootstrap
+  version: 1.2.1
+  src: htmlwidgets
+  script: ./lib/bootstrap.min.js
+- name: dataframe
+  version: 1.2.1
+  src: htmlwidgets
+  script: ./lib/dataframe.js
+
+
+
